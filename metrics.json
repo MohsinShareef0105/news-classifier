@@ -1,0 +1,32 @@
+{
+  "best_model": "Logistic Regression (SGD)",
+  "accuracy": 0.5536866666666667,
+  "macro_f1": 0.32544895344655056,
+  "classes": [
+    "auto",
+    "blogs",
+    "bombay-times",
+    "business",
+    "calcutta-times",
+    "citizen",
+    "city",
+    "cricket",
+    "delhi-times",
+    "edit-page",
+    "elections",
+    "entertainment",
+    "home",
+    "india",
+    "life-style",
+    "lucknow-times",
+    "news",
+    "pune-times",
+    "removed",
+    "sports",
+    "tech",
+    "top-headlines",
+    "top-stories",
+    "tv",
+    "world"
+  ]
+}
