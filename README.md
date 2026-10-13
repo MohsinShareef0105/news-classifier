@@ -3,7 +3,7 @@
 Supervised text-classification pipeline (raw text → preprocessing → TF-IDF → model → evaluation → Streamlit deployment)
 trained on the [India Headlines News dataset](https://www.kaggle.com/datasets/therohk/india-headlines-news-dataset).
 
-**Live app:** `https://news-classifier-india.streamlit.app/`
+**Live app:** [News Category Classifier](https://news-classifier-india.streamlit.app/)
 
 ## Files
 | File | Purpose |
